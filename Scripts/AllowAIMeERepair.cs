@@ -2,7 +2,7 @@
 using Stationeers.Addons;
 using UnityEngine;
 
-namespace AlwaysActiveGeysers.Scripts
+namespace AllowAIMeERepair.Scripts
 {
     public class AllowAIMeERepair : IPlugin
     {
